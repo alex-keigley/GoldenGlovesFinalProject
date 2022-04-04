@@ -1,4 +1,4 @@
-# GoldenGlovesFinalProject
+# MLB HOF Predictions
 
 ## Topic:
 When deciding on the focus of the project, we had two main objectives: first, we wanted to work with a topic that held our interests, and second, to find a topic with a reliable, accessibly large data source.  With the first objective in mind, we decided our project should be sports releated.  While there are many available sports databases, we concluded that baseball would best meet our needs.  All that was left was to figure out how to utilize our found data to our advantage. We decided to use the historical data to look at the stats of Baseball Hall of Fame nominees and inductees. 
